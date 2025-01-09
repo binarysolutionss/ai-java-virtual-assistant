@@ -42,19 +42,15 @@ SpeechToText is an Android application that leverages natural language processin
 - Dexter for runtime permissions
 - Lottie for animations
 
-## Project Structure
-.gitignore .gradle/ .idea/ app/ build.gradle gradle/ gradle.properties gradlew gradlew.bat local.properties settings.gradle
-
-
 ## Contributors
 
 This project was a collaborative effort for a capstone project with:
 
-- Phillip Jengwa
-- Michael Tandi
-- Alfred Sithole
-- Ezra Kaba
-- Takudzwa Mandiishona
+- @Phillip Jengwa
+- @Michael Tandi
+- @Alfred Sithole
+- @Ezra Kaba
+- @Takudzwa Mandishona
 
 ## License
 
